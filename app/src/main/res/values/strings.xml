@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SWB Scanner</string>
+    <string name="app_subtitle">Saigon Waterbus Check-in</string>
+    <string name="camera_permission_required">Cần cấp quyền truy cập máy ảnh để quét mã QR vé</string>
+    <string name="grant_permission">Cấp quyền</string>
+    <string name="continuous_scan">Quét liên tục</string>
+    <string name="single_scan">Quét từng vé</string>
+    <string name="flashlight">Đèn bù sáng</string>
+    <string name="valid_ticket">VÉ HỢP LỆ</string>
+    <string name="invalid_ticket">VÉ KHÔNG HỢP LỆ</string>
+    <string name="used_ticket">VÉ ĐÃ SỬ DỤNG</string>
+    <string name="wrong_trip">SAI CHUYẾN TÀU</string>
+    <string name="welcome_aboard">Xin mời lên tàu</string>
+    <string name="station_bach_dang">Bạch Đằng</string>
+    <string name="station_binh_an">Bình An</string>
+    <string name="station_thanh_da">Thanh Đa</string>
+    <string name="station_hiep_binh_chanh">Hiệp Bình Chánh</string>
+    <string name="station_linh_dong">Linh Đông</string>
+    <string name="station_thien_ly">Trường MN Thiên Lý</string>
+</resources>

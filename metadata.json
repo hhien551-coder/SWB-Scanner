@@ -1,0 +1,6 @@
+{
+  "name": "SWB Scanner",
+  "description": "Ứng dụng kiểm soát vé điện tử bằng mã QR cho hệ thống buýt đường sông Saigon Waterbus tại TP. Hồ Chí Minh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
